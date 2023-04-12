@@ -40,6 +40,7 @@
   </languages>
   <catalogs>Catalog.Поставщики</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
+  <catalogs>Catalog.Товары</catalogs>
   <documents>Document.ПоступлениеТоваров</documents>
   <informationRegisters>InformationRegister.ГрафикРаботы</informationRegisters>
 </mdclass:Configuration>
