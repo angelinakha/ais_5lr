@@ -38,6 +38,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <catalogs>Catalog.Подразделения</catalogs>
   <catalogs>Catalog.Поставщики</catalogs>
   <catalogs>Catalog.Сотрудники</catalogs>
   <documents>Document.ПоступлениеТоваров</documents>
