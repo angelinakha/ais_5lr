@@ -42,5 +42,6 @@
   <catalogs>Catalog.Сотрудники</catalogs>
   <catalogs>Catalog.Товары</catalogs>
   <documents>Document.ПоступлениеТоваров</documents>
+  <documents>Document.РеализацияТоваров</documents>
   <informationRegisters>InformationRegister.ГрафикРаботы</informationRegisters>
 </mdclass:Configuration>
